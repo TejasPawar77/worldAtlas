@@ -1,0 +1,32 @@
+    [
+      {
+        "id": 1,
+        "name": "Japan",
+        "capital": "Tokyo",
+        "amazingFact": "Japan is home to the world’s oldest company, Kongo Gumi, which operated for over 1,400 years."
+      },
+      {
+        "id": 2,
+        "name": "Brazil",
+        "capital": "Brasília",
+        "amazingFact": "Brasília was designed in the shape of an airplane and built in just 41 months in the 1950s."
+      },
+      {
+        "id": 3,
+        "name": "Egypt",
+        "capital": "Cairo",
+        "amazingFact": "Cairo is home to the Great Pyramid of Giza, the only surviving Wonder of the Ancient World."
+      },
+      {
+        "id": 4,
+        "name": "Iceland",
+        "capital": "Reykjavík",
+        "amazingFact": "Iceland is one of the only countries in the world without mosquitoes."
+      },
+      {
+        "id": 5,
+        "name": "Australia",
+        "capital": "Canberra",
+        "amazingFact": "Australia is the only country that is also a continent and has more kangaroos than people."
+      }
+    ]
